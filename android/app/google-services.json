@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151891613336",
+    "project_id": "ttualerts-9c25e",
+    "storage_bucket": "ttualerts-9c25e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151891613336:android:26c31450c2cc7c8208e2ed",
+        "android_client_info": {
+          "package_name": "com.logickids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151891613336-qc73ba3ktk5mpfvitkf1rfirpkj1j07b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIvdEeCIoa1mkhEAZXQXRUWUWVyD4XSGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151891613336-qc73ba3ktk5mpfvitkf1rfirpkj1j07b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
